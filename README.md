@@ -1,11 +1,11 @@
 <div align="center">
 
 # Chandresh Gohel
-### AI / ML Developer · AI Student · Open to Entry-level roles
+### AI / ML Developer · AI Student · Open to Entry-level Roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chandresh--gohel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandresh-gohel/)
 [![GitHub](https://img.shields.io/badge/GitHub-Chandresh--Gohel-181717?style=flat-square&logo=github)](https://github.com/Chandresh-Gohel)
-![Open to work](https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=flat-square)
+![Open to work](https://img.shields.io/badge/Status-Open%20to%20Entry--level%20Roles-brightgreen?style=flat-square)
 
 </div>
 
@@ -13,18 +13,11 @@
 
 ## About Me
 
-```python
-profile = {
-    "name":    "Chandresh Gohel",
-    "role":    "AI/ML Developer",
-    "status":  "AI Student · Seeking entry-level roles",
-    "focus":   ["Deep Learning", "Computer Vision", "Data Analysis / EDA"],
-    "stack":   ["Python", "TensorFlow", "Scikit-learn", "OpenCV", "Jupyter"],
-    "also":    ["C#", "ASP.NET Core", "JavaScript"],
-}
-```
+I'm an Artificial Intelligence student who enjoys building intelligent systems. My work sits at the intersection of machine learning and practical software engineering — from training deep learning models to developing AI-powered developer tools.
 
-I'm a Artificial Intelligence student who enjoys building intelligent systems. My work sits at the intersection of machine learning and practical software engineering — from training deep learning models to developing AI-powered developer tools.
+My primary focus is **Deep Learning**, **Computer Vision**, and **Data Analysis / EDA**, with most of my projects built in Python using TensorFlow, Scikit-learn, and OpenCV. I also have experience with C#, ASP.NET Core, and JavaScript from academic and personal projects.
+
+Currently looking for **entry-level roles and internships** in AI/ML where I can apply and grow my skills.
 
 ---
 
@@ -67,25 +60,14 @@ A full-featured email management application built on ASP.NET Core. Clean MVC ar
 
 ---
 
-### 🏦 [Bank Management System](https://github.com/Chandresh-Gohel/Bank-M-Sys-project) — `JavaScript`
+### 🏦 [Bank Management System](https://github.com/Chandresh-Gohel/Bank-M-Sys-project) — `Python · JavaScript`
 A banking platform for managing accounts, transactions, and financial records. Demonstrates structured application design and real-world business logic.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Chandresh-Gohel&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandresh-Gohel&layout=compact&theme=graywhite&hide_border=true" />
-
-</div>
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively looking for **internship and entry-level opportunities** in AI/ML and software development.
+I'm actively looking for **entry-level and internship opportunities** in AI/ML and software development.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/chandresh-gohel/)
 - 🐙 [GitHub](https://github.com/Chandresh-Gohel)
