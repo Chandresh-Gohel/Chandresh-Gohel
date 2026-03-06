@@ -1,16 +1,97 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Chandresh-Gohel/Chandresh-Gohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Chandresh Gohel
+### AI / ML Developer · AI Student · Open to Entry-level roles
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandresh--gohel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandresh-gohel/)
+[![GitHub](https://img.shields.io/badge/GitHub-Chandresh--Gohel-181717?style=flat-square&logo=github)](https://github.com/Chandresh-Gohel)
+![Open to work](https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## About Me
+
+```python
+profile = {
+    "name":    "Chandresh Gohel",
+    "role":    "AI/ML Developer",
+    "status":  "AI Student · Seeking entry-level roles",
+    "focus":   ["Deep Learning", "Computer Vision", "Data Analysis / EDA"],
+    "stack":   ["Python", "TensorFlow", "Scikit-learn", "OpenCV", "Jupyter"],
+    "also":    ["C#", "ASP.NET Core", "JavaScript"],
+}
+```
+
+I'm a Artificial Intelligence student who enjoys building intelligent systems. My work sits at the intersection of machine learning and practical software engineering — from training deep learning models to developing AI-powered developer tools.
+
+---
+
+## 🛠️ Skills
+
+**AI / ML & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Other Development**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [CodeSage](https://github.com/Chandresh-Gohel/CodeSage) — `Python · AI`
+An AI-powered code analysis tool that helps developers understand and improve their code through automated, intelligent insights. Combines static analysis with language model reasoning.
+
+---
+
+### 🔍 [CAPTCHA Detection — BISAG](https://github.com/Chandresh-Gohel/CAPTCHA-detection-BISAG) — `Deep Learning · Computer Vision`
+A deep learning model trained to recognise and solve CAPTCHA challenges. Developed in collaboration with BISAG using convolutional neural networks and a full image preprocessing pipeline.
+
+---
+
+### 📧 [Email System — ASP.NET Core](https://github.com/Chandresh-Gohel/Email-System-ASPNetCORE) — `C# · ASP.NET Core`
+A full-featured email management application built on ASP.NET Core. Clean MVC architecture with inbox management, composition, and delivery tracking.
+
+---
+
+### 🏦 [Bank Management System](https://github.com/Chandresh-Gohel/Bank-M-Sys-project) — `JavaScript`
+A banking platform for managing accounts, transactions, and financial records. Demonstrates structured application design and real-world business logic.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Chandresh-Gohel&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandresh-Gohel&layout=compact&theme=graywhite&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **internship and entry-level opportunities** in AI/ML and software development.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/chandresh-gohel/)
+- 🐙 [GitHub](https://github.com/Chandresh-Gohel)
+
+---
+
+<div align="center">
+<sub>Always learning · Always building</sub>
+</div>
