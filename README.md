@@ -55,7 +55,7 @@ Currently looking for **entry-level roles and internships** in AI/ML where I can
 
 ##  Featured Projects
 
-###  [Sonar-AUV](https://github.com/Chandresh-Gohel/Sonar-AUV-Hybrid-Pipeline) — `Python · AI · Yolo`
+### 🐟 [Sonar-AUV](https://github.com/Chandresh-Gohel/Sonar-AUV-Hybrid-Pipeline) — `Python · AI · Yolo`
 Hybrid preprocessing + YOLO pipeline for fish detection & counting in ARIS sonar images (Caltech Fish Counting Dataset) – raw vs. enhanced performance comparison
 
 ### 🤖 [CodeSage](https://github.com/Chandresh-Gohel/CodeSage) — `Python · AI`
