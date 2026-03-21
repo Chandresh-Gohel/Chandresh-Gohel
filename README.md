@@ -53,7 +53,10 @@ Currently looking for **entry-level roles and internships** in AI/ML where I can
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
+
+###  [Sonar-AUV](https://github.com/Chandresh-Gohel/Sonar-AUV-Hybrid-Pipeline) — `Python · AI · Yolo`
+Hybrid preprocessing + YOLO pipeline for fish detection & counting in ARIS sonar images (Caltech Fish Counting Dataset) – raw vs. enhanced performance comparison
 
 ### 🤖 [CodeSage](https://github.com/Chandresh-Gohel/CodeSage) — `Python · AI`
 An AI-powered code analysis tool that helps developers understand and improve their code through automated, intelligent insights. Combines static analysis with language model reasoning.
